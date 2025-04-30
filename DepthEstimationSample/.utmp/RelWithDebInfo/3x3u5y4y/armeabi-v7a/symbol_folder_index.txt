@@ -1,0 +1,1 @@
+C:\Users\BS835\BS23\L&D\sentis-samples\DepthEstimationSample\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\3x3u5y4y\obj\armeabi-v7a
